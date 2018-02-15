@@ -1,12 +1,12 @@
 We the Users of the internet and the world-wide-web do hereby lay out a framework for creating tolerable advertising within interactive media (ads).  These are our Terms and Conditions.
 
-Version 0.0.1
+Version 0.0.2
 
 # Preamble
 
 Online advertising has been around since the dawn of the web.  However, we have come to a point in time where targeted advertising has crossed a line into an immoral, will-undermining industry.
 
-Today, advertisers are at war with users over attention and data.  We want to change the advertising relationship from parasitism to symbiosis.  We believe a middle-ground can exist where advertisers can continue, while users still retain their privacy and free will.
+Today, advertisers are at war with users over attention and data.  We want to change the advertising relationship from parasitism to symbiosis.  We recognize Ads have a place on the internet.  We believe a middle-ground can exist where advertisers can continue to fund content, while users still retain their privacy and free will.
 
 We don't just want ads that are better, we want ads that respect us and don't undermine our intent.  These are what we call "okay ads".
 
